@@ -2,5 +2,5 @@
 https://nemesis076.github.io/Follow-Pursue-and-Evade/
 
 Blue = FollowPath,  
-Green = Pursue, 
+Green = Pursue,   
 Purple = Evade
